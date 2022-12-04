@@ -18,8 +18,10 @@ struct patient{
 	
 }record;	
 
-
-
+#include"check.h"
+#include"add_patient.h"
+#include"menu.h"
+#include"view.h"
 #include"delete.h"
 #include"display.h"
 #include"list.h"
